@@ -2,7 +2,7 @@
 
 ![plot](heatmap.JPG) <br>
 
-The data used for this project can found [here](https://www.kaggle.com/rtatman/chocolate-bar-ratings/data) <br>
+The data used for this project can found [here](https://www.kaggle.com/c/titanic) <br>
 **Thank you for going through my GitHub repository!**<br><br>
 In this project, I have used python libraries within the data science ecosystem to process and predict the survived passengers, based on supporting features included in the data set, with the help of machine learning.  .  
 
