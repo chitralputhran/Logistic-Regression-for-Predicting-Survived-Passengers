@@ -53,7 +53,7 @@ The above depicts a general overview of almost all machine learning projects.
 ### Train Test split:
 * We divide the data set into two parts:
   * Training set: Used for training the machine learning model, it can be further divided into a training set and a cross-validation set.
- * Testing set: Used for the final evaluation of the machine learning. 
+  * Testing set: Used for the final evaluation of the machine learning. 
 * The train test split can be seamlessly done by sklearn.model_selection.train_test_split from scikit-learn. 
 
 ### Save model hyper-parameters and weights:
